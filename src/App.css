@@ -1,0 +1,15 @@
+.flex-parent {
+  display: inline-flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: space-between;
+}
+
+.flex-child {
+  padding-top: 20px;
+}
+
+.navbar-brand {
+  font-family: 'Roboto Condensed', sans-serif;
+}
